@@ -60,11 +60,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello_microverse] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Hello Microverse]** is an initiation project to show micronauts on how to build future projects. It uses linters to check for errors and it contains an html file that displays an header of "Hello Microverse!". It also contains a css file thaat styles the header with a color of blue. It also contains a gitignore file that contains folders and files that are to be ignoreed by git.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -75,23 +75,23 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/">HTML & CSS</a></li>
   </ul>
 </details>
 
-<details>
+<!-- <details>
   <summary>Server</summary>
   <ul>
     <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
-</details>
+</details> -->
 
 <!-- Features -->
 
@@ -99,9 +99,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Displays an text of Hello Microverse**
+- **Styled the text with a color of blue**
+- **Ignored node_modules and test.md**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
