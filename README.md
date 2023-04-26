@@ -1,4 +1,5 @@
-
+# Hello Microverse
+This is a project that shows the use of gitflow and basic ethics of writing a project in the microverse programme. It contains folders and files that are necessary for the submission of a valid project.
 
 # 📗 Table of Contents
 
@@ -92,6 +93,31 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Install
+
+No innstallation required for this project.
+
+
+### Usage
+
+To run the project, go to your file explorer where you cloned the file into and click on the index.html file to open it in a browser.
+
+
+### Run tests
+
+To run tests, open the index.html file inn a browser and ensure that the text displayed is "Hello Microverse" in blue color.
+
+
+
+### Deployment
+
+You can deploy this project using:
+**Github pages**
+ 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -143,6 +169,5 @@ I would like to thank microverse for giving me this chance to showcase my skills
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
